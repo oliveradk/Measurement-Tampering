@@ -1,0 +1,8 @@
+torch==1.13.1
+datasets==2.9.0
+transformers @ git+https://github.com/huggingface/transformers.git@0c3fdccf2f271fb7c44f6ea6e9f4ee234795f2c5
+tqdm
+ray==2.5.1
+absl-py==1.4.0
+scikit-learn
+fire==0.4.0
